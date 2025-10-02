@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+# sqlite3
+openpyxl
+pdfplumber
+sqlalchemy 
+sqlite-utils 
+openai
+python-dotenv  # if you want to load API keys from .env
+jinja2>=3.0.0
+weasyprint>=53.0
+seaborn>=0.11.0
+langchain>=0.0.148
+psycopg2-binary>=2.9.0
